@@ -1,0 +1,3 @@
+- npm install nightwatch --save-dev
+- npm install chromedriver --save-dev
+- To run tests: npx nightwatch

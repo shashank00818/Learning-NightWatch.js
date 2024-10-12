@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "chromedriver": "^129.0.4",
+    "nightwatch": "^3.8.0"
+  }
+}
